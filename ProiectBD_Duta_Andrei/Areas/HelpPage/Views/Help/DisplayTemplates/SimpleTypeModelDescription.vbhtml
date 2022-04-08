@@ -1,0 +1,3 @@
+@Imports ProiectBD_Duta_Andrei.Areas.HelpPage.ModelDescriptions
+@ModelType SimpleTypeModelDescription
+@Model.Documentation
